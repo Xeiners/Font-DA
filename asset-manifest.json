@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Font-DA/static/css/main.82cd514a.css",
+    "main.js": "/Font-DA/static/js/main.32a9acea.js",
+    "static/media/part4.png": "/Font-DA/static/media/part4.84065f4d3c5c551fe6d3.png",
+    "static/media/part1.png": "/Font-DA/static/media/part1.d190761deb491f57ec5d.png",
+    "static/media/back.png": "/Font-DA/static/media/back.68f0f5c70df60009b1a9.png",
+    "static/media/Barb_Cornflower.png": "/Font-DA/static/media/Barb_Cornflower.bae08972779d9274dd56.png",
+    "static/media/Barb_Lime.png": "/Font-DA/static/media/Barb_Lime.82f2a6ec1e428e4a9559.png",
+    "static/media/Lastik-Regular.ttf": "/Font-DA/static/media/Lastik-Regular.a7ff56d777b27c7a3b16.ttf",
+    "static/media/Barb_Orange.png": "/Font-DA/static/media/Barb_Orange.d93f32d45e939c8a39e8.png",
+    "static/media/part3.png": "/Font-DA/static/media/part3.45d69eacba622e07427f.png",
+    "static/media/part2.png": "/Font-DA/static/media/part2.4470258f53fd3cd1073b.png",
+    "index.html": "/Font-DA/index.html",
+    "main.82cd514a.css.map": "/Font-DA/static/css/main.82cd514a.css.map",
+    "main.32a9acea.js.map": "/Font-DA/static/js/main.32a9acea.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.82cd514a.css",
+    "static/js/main.32a9acea.js"
+  ]
+}
